@@ -349,6 +349,9 @@ AWS Training <a href="https://aws.amazon.com/en/training/">(aws.amazon.com/train
 And in the above link get the study materials
 <a href="https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_CloudPractitioner.pdf"> Pdf with the information</a>
 
+Access AWS Information about Certified Cloud Practitioner CLF-C02
+[Important Informations](https://aws.amazon.com/certification/certified-cloud-practitioner/?nc1=h_ls)
+
 The above file has important information like LEARNING RESOURCE, DURATION and TYPE, which gives you a path to follow, what ahead will be highlighted each theme and how each question is formed.
 
 <b>Step 3:</b> Review the exam guide and sample questions
@@ -458,12 +461,9 @@ AWS services are grouped according to their primary functions. While some of the
 -  <img src="./images/solid/check.png" width="20px">[Amazon EC2](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-1)
 -  <img src="./images/solid/check.png" width="20px">[AWS Elastic Beanstalk](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-8)
 -  <img src="./images/solid/check.png" width="20px">[Amazon Lightsail](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-6)
-- AWS Local Zones
-- AWS Outposts
-- AWS Wavelength
-
-
--  <img src="./images/solid/check.png" width="20px">[Amazon WorkSpaces](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-14)
+-  <img src="./images/solid/check.png" width="20px">[AWS Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/?nc1=h_ls)
+-  <img src="./images/solid/check.png" width="20px">[AWS Outposts](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-9)
+-  <img src="./images/solid/check.png" width="20px">[AWS Wavelength](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-13)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -476,10 +476,10 @@ AWS services are grouped according to their primary functions. While some of the
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### **Customer Engagement:**
-- AWS Activate for Startups
-- AWS IQ
-- AWS Managed Services (AMS)
-- AWS Support
+- <img src="./images/solid/check.png" width="20px">[AWS Activate for Startups](https://pages.awscloud.com/APJ-startup-PT-AWS-Activate-2022-reg.html?cr=%7Bcreative%7D&kw=%7Bkeyword%7D#:~:text=AWS%20Activate%20provides%20startups%20with,to%20help%20grow%20your%20business)
+- <img src="./images/solid/check.png" width="20px">[AWS IQ](https://iq.aws.amazon.com/?utm=dp)
+- <img src="./images/solid/check.png" width="20px">[AWS Managed Services (AMS)](https://aws.amazon.com/pt/managed-services/)
+- <img src="./images/solid/check.png" width="20px">[AWS Support](https://aws.amazon.com/contact-us/?nc1=h_ls)
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### **Database:**
@@ -507,24 +507,24 @@ AWS services are grouped according to their primary functions. While some of the
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-### **End User Computing: *- 
-- Amazon AppStream 2.0 
-- Amazon WorkSpaces 
-- Amazon WorkSpaces Web
+### **End User Computing:** 
+-  <img src="./images/solid/check.png" width="20px">[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/getting-started/?nc1=h_ls)
+-  <img src="./images/solid/check.png" width="20px">[Amazon WorkSpaces](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-14)
+-  <img src="./images/solid/check.png" width="20px">[Amazon WorkSpaces Web](https://docs.aws.amazon.com/workspaces/latest/userguide/amazon-workspaces-web-access.html)
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-### **Frontend Web and Mobile: *- 
-- AWS Amplify 
-- AWS AppSync 
-- AWS Device Farm
+### **Frontend Web and Mobile:** 
+- <img src="./images/solid/check.png" width="20px">[AWS Amplify](https://github.com/weder96/aws-certification-learning/tree/main/module-28#section-01) 
+- <img src="./images/solid/check.png" width="20px">[AWS AppSync](https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-4) 
+- <img src="./images/solid/check.png" width="20px">[AWS Device Farm](https://github.com/weder96/aws-certification-learning/tree/main/module-28#section_03)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-### **Internet of Things (IoT): *- 
-- AWS IoT Core 
-- AWS IoT Greengrass
+### **Internet of Things (IoT):** 
+- <img src="./images/solid/check.png" width="20px">[AWS IoT Core](https://github.com/weder96/aws-certification-learning/tree/main/module-17#section-10) 
+- <img src="./images/solid/check.png" width="20px">[AWS IoT Greengrass](https://aws.amazon.com/greengrass/?nc1=h_ls)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -545,19 +545,18 @@ AWS services are grouped according to their primary functions. While some of the
 - <img src="./images/solid/check.png" width="20px"> [AWS CloudFormation](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-2)
 - <img src="./images/solid/check.png" width="20px"> [AWS CloudTrail](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-3)
 - <img src="./images/solid/check.png" width="20px"> [Amazon CloudWatch](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-4)
-- AWS Compute Optimizer
+- <img src="./images/solid/check.png" width="20px"> [AWS Compute Optimizer](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-6)
 - <img src="./images/solid/check.png" width="20px"> [AWS Config](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-7)
 - AWS Control Tower
-- AWS Health Dashboard
+- <img src="./images/solid/check.png" width="20px"> [AWS Health Dashboard](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-14)
 - AWS Launch Wizard
-- AWS Management Console
+- <img src="./images/solid/check.png" width="20px"> [AWS Management Console](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-12)
 - <img src="./images/solid/check.png" width="20px"> [AWS Organizations](https://github.com/weder96/aws-certification-learning/tree/main/module-15#section-18)
 - AWS Resource Groups and Tag Editor
-- AWS Service Catalog
-- AWS Systems Manager
-- AWS Trusted Advisor
+- <img src="./images/solid/check.png" width="20px"> [AWS Service Catalog](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-16)
+- <img src="./images/solid/check.png" width="20px"> [AWS Systems Manager](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-17)
 - <img src="./images/solid/check.png" width="20px"> [AWS Trusted Advisor](https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-18)
-- AWS Well-Architected Tool
+- <img src="./images/solid/check.png" width="20px"> [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/?nc1=h_ls)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -575,32 +574,32 @@ AWS services are grouped according to their primary functions. While some of the
 - <img src="./images/solid/check.png" width="20px"> [Amazon API Gateway](https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-10)
 - <img src="./images/solid/check.png" width="20px"> [Amazon CloudFront](https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-1)
 - <img src="./images/solid/check.png" width="20px"> [AWS Direct Connect](https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-2)
-- AWS Global Accelerator
+- <img src="./images/solid/check.png" width="20px"> [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/?nc1=h_ls)
 - <img src="./images/solid/check.png" width="20px"> [Amazon Route 53](https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-6)
 - <img src="./images/solid/check.png" width="20px"> [Amazon VPC](https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-8)
-- AWS VPN
+- <img src="./images/solid/check.png" width="20px"> [AWS VPN](https://aws.amazon.com/vpn/?nc1=h_ls)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### **Security, Identity, and Compliance:**
 - <img src="./images/solid/check.png" width="20px"> [AWS Artifact](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-02)
-- AWS Audit Manager
+- <img src="./images/solid/check.png" width="20px"> [AWS Audit Manager](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-15)
 - <img src="./images/solid/check.png" width="20px"> [AWS Certificate Manager (ACM)](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-07)
 - <img src="./images/solid/check.png" width="20px"> [AWS CloudHSM](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-06)
 - <img src="./images/solid/check.png" width="20px"> [Amazon Cognito](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-11)
 - <img src="./images/solid/check.png" width="20px"> [Amazon Detective](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-17)
-- AWS Directory Service
-- AWS Firewall Manager
+- <img src="./images/solid/check.png" width="20px"> [AWS Directory Service](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-12)
+- <img src="./images/solid/check.png" width="20px"> [AWS Firewall Manager](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-18)
 - <img src="./images/solid/check.png" width="20px"> [Amazon GuardDuty](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-03)
-- AWS IAM Identity Center (AWS Single Sign-On)
+- <img src="./images/solid/check.png" width="20px"> [AWS IAM Identity Center (AWS Single Sign-On)](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-10)
 - <img src="./images/solid/check.png" width="20px"> [AWS Identity and Access Management (IAM)](https://github.com/weder96/aws-certification-learning/tree/main/module-15)
 - <img src="./images/solid/check.png" width="20px"> [Amazon Inspector](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-01)
-- AWS Key Management Service (AWS KMS)
+- <img src="./images/solid/check.png" width="20px"> [AWS Key Management Service (AWS KMS)](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-05)
 - <img src="./images/solid/check.png" width="20px"> [Amazon Macie](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-19)
 - AWS Network Firewall
-- AWS Resource Access Manager (AWS RAM)
-- AWS Secrets Manager
-- AWS Security Hub
+- <img src="./images/solid/check.png" width="20px"> [AWS Resource Access Manager (AWS RAM)](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-21)
+- <img src="./images/solid/check.png" width="20px"> [AWS Secrets Manager](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-14)
+- <img src="./images/solid/check.png" width="20px"> [AWS Security Hub](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-22)
 - <img src="./images/solid/check.png" width="20px"> [AWS Shield](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-23)
 - <img src="./images/solid/check.png" width="20px"> [AWS WAF](https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-04)
 
@@ -616,7 +615,7 @@ AWS services are grouped according to their primary functions. While some of the
 - <img src="./images/solid/check.png" width="20px"> [AWS Backup](https://github.com/weder96/aws-certification-learning/tree/main/module-7#section-7)
 - <img src="./images/solid/check.png" width="20px"> [Amazon Elastic Block Store (Amazon EBS)](https://github.com/weder96/aws-certification-learning/tree/main/module-7#section-3)
 - <img src="./images/solid/check.png" width="20px"> [Amazon Elastic File System (Amazon EFS)](https://github.com/weder96/aws-certification-learning/tree/main/module-7#section-5)
-- AWS Elastic Disaster Recovery
+- <img src="./images/solid/check.png" width="20px"> [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/?nc1=h_ls)
 - <img src="./images/solid/check.png" width="20px"> [Amazon FSx](https://github.com/weder96/aws-certification-learning/tree/main/module-7#section-7)
 - <img src="./images/solid/check.png" width="20px"> [Amazon S3](https://github.com/weder96/aws-certification-learning/tree/main/module-7#section-1)
 - <img src="./images/solid/check.png" width="20px"> [Amazon S3 Glacier](https://github.com/weder96/aws-certification-learning/tree/main/module-7#section-1)
@@ -719,7 +718,7 @@ Those images are designed with [xmind tool](http://www.xmind.net)
 Accessed on: Aug. of 2021.<br/>
 It has several questions for training, in the case of AWS Cloud Practitioner, the site has 3 Quiz and 6 Pdfs, with the questions.
 
-# 6. Look for classes on youtube on the subject.
+# 4. Look for classes on youtube on the subject.
 
 Channels on youtube About the Subject:
 <br/><br/>
@@ -764,5 +763,59 @@ https://calculator.aws/#/
 
 # Labs
 https://amazon.qwiklabs.com/
+
+
+
+# 5. Look for classes on youtube on the subject.
+
+### Common Exam Scenarios for the CLF-C02 AWS Cloud Practitioner Exam                                                          
+
+### CLF-C02 Exam Domain 1: Cloud Concepts                             
+
+
+<table>
+  <tr>
+    <th >Scenario</th>    
+    <th>Solution</th>
+  </tr>
+  <tr>
+    <td>A key financial benefit of migrating systems  hosted on your on-premises data center to AWS. </td>
+    <td> Replaces upfront capital expenses (CAPEX) with low variable operational expense (OPEX). <br/>
+         Reduce the Total Cost of Ownership (TCO) 
+    </td>    
+  </tr>
+ <tr>
+    <td>4 cloud architectures design principle in AWS</td>
+    <td>
+        - Design for failure. <br/>
+        - Decouple your components <br/>
+        - Implement elasticity <br/>
+        - Think parallel<br/>
+    </td>    
+  </tr>
+  <tr>
+    <td>A Global Infrastructure component that is made up of one or more discrete data centers, with each redundant power, networking, and connectivity housed in separate facilities.</td>
+    <td>Availability Zones</td>    
+  </tr>
+  <tr>
+    <td>A cloud best practice that reinforces the use of the Service-Oriented Architecture (SOA) design principle.</td>
+    <td>Decouple your components</td>    
+  </tr>
+  <tr>
+    <td>You need to enable your Amazon EC2 instances in the public subnet to connect to the public Internet.</td>
+    <td>Internet Gateway</td>    
+  </tr>
+  <tr>
+    <td>You can use it to resolve the connection between your on-premises VPN and your Amazon VPC.</td>
+    <td> 
+         – Virtual Private Gateway <br/>
+         – Amazon Route 53
+    </td>    
+  </tr>
+</table>
+
+[Common Exam Scenarios for the CLF-C02 AWS Cloud Practitioner Exam ](https://tutorialsdojo.com/aws-cloud-practitioner-clf-c02-exam-guide/)
+
+
 
 
